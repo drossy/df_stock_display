@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name     Dwarven Forge Stock Display
 // @version  1
-// @grant    https://shop.dwarvenforge.com
+// @match    https://shop.dwarvenforge.com
 // ==/UserScript==
 
 // Get the product title
