@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name      Dwarven Forge Stock Display
-// @version   1
-// @match     https://shop.dwarvenforge.com/*
+// @version   2
+// @match     https://dwarvenforge.com/*
 // @updateURL https://github.com/drossy/df_stock_display/raw/main/df_stock_display.user.js
 // ==/UserScript==
 
